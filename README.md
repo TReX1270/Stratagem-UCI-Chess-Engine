@@ -1,5 +1,7 @@
 # Stratagem-UCI-Chess-Engine
 Stratagem, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for accurate evaluation and employs a range of advanced search techniques to achieve exceptional performance within the Alpha-Beta framework. Drawing inspiration from multiple open-source projects, Stratagem not only strives to be a top-tier engine but also serves as a valuable resource for developers to enhance their own chess engines
+![Stratagem, Strong and Open Source C++ Chess Engine](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/6cee1812-570d-43db-bf75-92201a4acbda)
+
 
 ## Features
 * Architecture
@@ -53,8 +55,7 @@ The UCI (Universal Chess Interface) serves as a widely adopted protocol for inte
 
 
 ## Acknowledgements
-
-* BluefeverSoftware, YouTube series about Vice engine
-* CodeMonkeyKing, General chess programming videos
-* AndyGrant, Author of Ethereal
-* And of course, ChessProgrammingWiki
+* [BluefeverSoftware](https://www.youtube.com/@BlueFeverSoft), YouTube series about Vice engine.
+* [CodeMonkeyKing](https://www.youtube.com/@chessprogramming591), General chess programming videos.
+* [AndyGrant](https://github.com/AndyGrant), Author of Ethereal.
+* And of course, [ChessProgrammingWik](https://www.chessprogramming.org/Main_Page).
