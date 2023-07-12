@@ -1,0 +1,60 @@
+cmake_minimum_required(VERSION 3.23)
+project(Stratagem)
+
+set(CMAKE_CXX_STANDARD 17)
+
+include_directories(src)
+include_directories(src/incbin)
+
+add_executable(Stratagem
+        src/incbin/incbin.h
+        src/attack.cpp
+        src/attack.h
+        src/benchmark.cpp
+        src/benchmark.h
+        src/board.cpp
+        src/board.h
+        src/evaluate.cpp
+        src/evaluate.h
+        src/hashkey.cpp
+        src/hashkey.h
+        src/heuristics.cpp
+        src/heuristics.h
+        src/init.cpp
+        src/init.h
+        src/io.cpp
+        src/io.h
+        src/magic.cpp
+        src/magic.h
+        src/main.cpp
+        src/makemove.cpp
+        src/makemove.h
+        src/miscellaneous.cpp
+        src/miscellaneous.h
+        src/move.cpp
+        src/move.h
+        src/movegen.cpp
+        src/movegen.h
+        src/choose.cpp
+        src/choose.h
+        src/nnue.cpp
+        src/nnue.h
+        src/perft.cpp
+        src/perft.h
+        src/data.cpp
+        src/data.h
+        src/random.cpp
+        src/random.h
+        src/search.cpp
+        src/search.h
+        src/test_main.cpp
+        src/test_main.h
+        src/threads.cpp
+        src/threads.h
+        src/time_management.cpp
+        src/time_management.h
+        src/transpose_t.cpp
+        src/transpose_t.h
+        src/types.h
+        src/uci.cpp
+        src/uci.h)
