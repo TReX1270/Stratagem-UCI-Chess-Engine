@@ -39,8 +39,13 @@ Stratagem, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) 
 ## Improvements
   * Implement Syzygy Bases, SyzygyPath, ...
   * Improve the NN Structure
-    
- ## Installation/Usage
+
+ ## Requirements
+ Stratagem software requires GCC(GNU Compiler Collection) or CLang, C++ version: CXX >= C++17 !
+ Stratagem doesn't support Microsoft visual studio (yet).
+ It is recommended that the terminal uses a TrueType Font (ttf), Consolas and other monospaced fonts are recommended for the best user experience [Unicode characters and ANSI escape code] (However, most engines are linked directly to the GUI and don't really need to interact with the terminal).
+ 
+ ## Installation/Usag
  Clone the repository:
 
 ```bash
@@ -62,3 +67,5 @@ The UCI (Universal Chess Interface) serves as a widely adopted protocol for inte
 * [CodeMonkeyKing](https://www.youtube.com/@chessprogramming591), General chess programming videos.
 * [AndyGrant](https://github.com/AndyGrant), Author of Ethereal.
 * And of course, [ChessProgrammingWik](https://www.chessprogramming.org/Main_Page).
+
+## Images
