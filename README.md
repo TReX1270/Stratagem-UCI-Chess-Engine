@@ -1,4 +1,4 @@
-# Stratagem-UCI-Chess-Engine
+0# Stratagem-UCI-Chess-Engine
 Stratagem, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for accurate evaluation and employs a range of advanced search techniques to achieve exceptional performance within the Alpha-Beta framework. Drawing inspiration from multiple open-source projects, Stratagem not only strives to be a top-tier engine but also serves as a valuable resource for developers to enhance their own chess engines.
 
 ![Stratagem, Strong and Open Source C++ Chess Engine](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/6cee1812-570d-43db-bf75-92201a4acbda)
@@ -46,7 +46,7 @@ Stratagem, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) 
  * It is recommended that the terminal uses a TrueType Font (ttf), Consolas and other monospaced fonts are recommended for the best user experience [Unicode characters and ANSI escape code] (However, most engines are 
    linked directly to the GUI and don't really need to interact with the terminal).
  
- ## Installation/Usag
+ ## Installation/Usage
  Clone the repository:
 
 ```bash
