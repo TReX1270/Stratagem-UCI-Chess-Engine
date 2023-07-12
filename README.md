@@ -1,4 +1,4 @@
-0# Stratagem-UCI-Chess-Engine
+## Stratagem-UCI-Chess-Engine
 Stratagem, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for accurate evaluation and employs a range of advanced search techniques to achieve exceptional performance within the Alpha-Beta framework. Drawing inspiration from multiple open-source projects, Stratagem not only strives to be a top-tier engine but also serves as a valuable resource for developers to enhance their own chess engines.
 
 ![Stratagem, Strong and Open Source C++ Chess Engine](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/6cee1812-570d-43db-bf75-92201a4acbda)
