@@ -71,14 +71,16 @@ The UCI (Universal Chess Interface) serves as a widely adopted protocol for inte
 
 ## Images
 ### Terminal interface
-![Terminal interface](![Screenshot 2023-07-12 140224](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/55084d86-052d-453d-ad8d-10bbf5dbd525)
+![Terminal interface](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/55084d86-052d-453d-ad8d-10bbf5dbd525)
 )
 
 ### Gameboard
-![Gameboard]()
+![Gameboard](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/a0d537b2-f030-4336-9029-8a530e67fc58)
+)
 
 ### Search, Evaluation, and Picking
-![Search, Evaluation, Picking](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/blob/main/assets/121260820/e34d8b44-3c3f-4965-a0e5-76b0d52ed97e.png)
+![Search, Evaluation, Picking](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/d18972fa-4ca4-4abb-bc75-239a480da2b0)
+)
 
 
 
