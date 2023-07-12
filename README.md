@@ -41,9 +41,10 @@ Stratagem, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) 
   * Improve the NN Structure
 
  ## Requirements
- Stratagem software requires GCC(GNU Compiler Collection) or CLang, C++ version: CXX >= C++17 !
- Stratagem doesn't support Microsoft visual studio (yet).
- It is recommended that the terminal uses a TrueType Font (ttf), Consolas and other monospaced fonts are recommended for the best user experience [Unicode characters and ANSI escape code] (However, most engines are linked directly to the GUI and don't really need to interact with the terminal).
+ * Stratagem software requires GCC(GNU Compiler Collection) or CLang, C++ version: CXX >= C++17 !
+ * Stratagem doesn't support Microsoft visual studio (yet).
+ * It is recommended that the terminal uses a TrueType Font (ttf), Consolas and other monospaced fonts are recommended for the best user experience [Unicode characters and ANSI escape code] (However, most engines are 
+   linked directly to the GUI and don't really need to interact with the terminal).
  
  ## Installation/Usag
  Clone the repository:
@@ -69,3 +70,12 @@ The UCI (Universal Chess Interface) serves as a widely adopted protocol for inte
 * And of course, [ChessProgrammingWik](https://www.chessprogramming.org/Main_Page).
 
 ## Images
+Terminal interface:
+![Screenshot 2023-07-12 140224](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/4d23bf75-96a6-4e1f-b7d7-91d2419bba39)
+Gameboard:
+![Screenshot 2023-07-12 140716](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/6d026320-0683-404d-aa6f-907024dcdab5)
+Search, Evaluation, Picking:
+![Screenshot 2023-07-12 140931](https://github.com/yanpuri/Stratagem-UCI-Chess-Engine/assets/121260820/e34d8b44-3c3f-4965-a0e5-76b0d52ed97e)
+
+
+
