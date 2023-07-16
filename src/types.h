@@ -109,9 +109,3 @@ enum {
     badCaptureScore = -100000,
     badPromotionScore = -2000000001
 };
-
-typedef struct {
-
-    unsigned long long key;
-
-} U64;
